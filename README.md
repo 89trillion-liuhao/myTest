@@ -13,9 +13,10 @@ Assets
 >> Images  
 ## 界面结构拆分
 ### Hierarchy层
-> MainScenes 场景 
-> 
-> Background
+MainScenes 场景 
+> Main Camera  
+> Directional Light   
+> Background  
 >> Image  
 > Labels
 >> 金币信息位置
@@ -46,4 +47,4 @@ Assets
 >>> AlreadyBuy 宝箱已购买方法    
 >>> ReadyBuy 宝箱未购买方法  
 ## 流程图
-
+![Image text](https://github.com/89trillion-liuhao/myTest/blob/main/1.png)
