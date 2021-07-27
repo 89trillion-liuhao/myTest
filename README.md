@@ -45,4 +45,5 @@ Assets
 >>> ButtonClick 按钮点击方法   
 >>> AlreadyBuy 宝箱已购买方法    
 >>> ReadyBuy 宝箱未购买方法  
-
+## 流程图
+st=>start: 开始
