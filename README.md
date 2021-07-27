@@ -46,14 +46,4 @@ Assets
 >>> AlreadyBuy 宝箱已购买方法    
 >>> ReadyBuy 宝箱未购买方法  
 ## 流程图
-```
-graph TD
-
-A[Start] --> B[Your Operation]
-B --> C{Yes or No?}
-C --> |yes| D[end]
-C --> |no| B
-
-```
-
 
