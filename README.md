@@ -5,3 +5,9 @@
 3、绑定脚本与游戏对象  
 4、运行测试程序  
 ## 目录结构
+Assets
+>> Material
+>> Prefabs
+>> Scenes
+>> Scripts
+>> Images
