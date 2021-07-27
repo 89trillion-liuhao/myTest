@@ -6,8 +6,8 @@
 4、运行测试程序  
 ## 目录结构
 Assets
->> Material
->> Prefabs
->> Scenes
->> Scripts
->> Images
+>> Materials  
+>> Prefabs  
+>> Scenes  
+>> Scripts  
+>> Images  
