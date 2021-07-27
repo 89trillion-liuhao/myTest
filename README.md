@@ -46,18 +46,14 @@ Assets
 >>> AlreadyBuy 宝箱已购买方法    
 >>> ReadyBuy 宝箱未购买方法  
 ## 流程图
-# 下面是赋值语句
-st=>start: Start|past:>http://www.google.com[blank]
-e=>end: End:>http://www.google.com
-op1=>operation: My Operation|past
-op2=>operation: Stuff
-cond=>condition: Yes or No?
-c2=>condition: Good idea
-io=>inputoutput: catch something...
+```
+graph TD
 
-# 下面是连接语句
-st->op1->cond
-cond(yes)->c2
-c2(yes)->io->e
-c2(no)->op2->e
+A[Start] --> B[Your Operation]
+B --> C{Yes or No?}
+C --> |yes| D[end]
+C --> |no| B
+
+```
+
 
