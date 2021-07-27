@@ -46,4 +46,7 @@ Assets
 >>> AlreadyBuy 宝箱已购买方法    
 >>> ReadyBuy 宝箱未购买方法  
 ## 流程图
+```mermaid
+
 st=>start: 开始
+```
